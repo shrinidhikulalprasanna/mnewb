@@ -327,7 +327,7 @@ export default function EnvelopeLetterSection() {
                 />
 
                 <textarea
-                  placeholder="Write a sweet message, memory, or wish for Sophia..."
+                  placeholder={`Write a sweet message, memory, or wish for ${birthdayConfig.recipientName}...`}
                   value={newMessage}
                   onChange={(e) => setNewMessage(e.target.value)}
                   rows={3}

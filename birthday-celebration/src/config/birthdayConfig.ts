@@ -66,10 +66,10 @@ export interface BirthdayConfig {
 }
 
 export const birthdayConfig: BirthdayConfig = {
-  recipientName: "Sophia",
-  nickname: "Soph",
+  recipientName: "Vamsha",
+  nickname: "Vamsha",
   age: 24,
-  birthDate: "August 16",
+  birthDate: "February 21",
   hero: {
     badge: "✨ Special Celebration Edition ✨",
     greeting: "Happy Birthday,",
@@ -129,7 +129,7 @@ export const birthdayConfig: BirthdayConfig = {
     title: "A Heartfelt Letter For You",
     subtitle: "Tap the wax seal to unlock your personal birthday note.",
     sealText: "OPEN 💌",
-    salutation: "Dearest Sophia,",
+    salutation: "Dearest Vamsha,",
     paragraphs: [
       "Happy, happy birthday! As you step into this exciting new year of your journey, I wanted to take a moment to celebrate everything that makes you so undeniably special.",
       "Your genuine kindness, infectious laugh, and the comforting energy you bring to everyone around you make the world a much brighter place.",
@@ -138,7 +138,7 @@ export const birthdayConfig: BirthdayConfig = {
     ],
     closing: "With all my love & warmest wishes,",
     signature: "Your Favorite Person 💖",
-    date: "August 16, 2026",
+    date: "February 21, 2026",
     psNote: "P.S. Don't forget to save some birthday cake for me! 🍰",
   },
   wishes: {
@@ -174,8 +174,8 @@ export const birthdayConfig: BirthdayConfig = {
     songTitle: "Lofi Birthday Melody 🎶",
   },
   shareCard: {
-    headline: "Happy Birthday Sophia! 🎉",
+    headline: "Happy Birthday Vamsha! 🎉",
     subtext: "Celebrating an amazing year of memories, laughter, and sunshine.",
-    hashtag: "#HappyBirthdaySophia #CelebrateLife",
+    hashtag: "#HappyBirthdayVamsha #CelebrateLife",
   },
 };
